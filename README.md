@@ -1,5 +1,5 @@
-# Spring Boot Graphql Annotation Example
-> Spring Boot Graphql Api Example Using Graphql Annotation
+# Spring Boot Graphql Api Example With Pagination(Relay)
+> Spring Boot Graphql Api Example With Pagination(Relay) Using Graphql Annotation
 >
 <img src="https://github.com/susimsek/spring-boot-graphql-annotation-example/blob/main/images/spring-boot-graphql-annotation-example.png" alt="Spring Boot Graphql Annotation Example" width="100%" height="100%"/> 
 
